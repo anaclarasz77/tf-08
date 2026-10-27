@@ -62,7 +62,7 @@ class Repositorio:
 
 
 
-repositorio = Repositorio("meu-projeto", "Ana Souza - SEU_RA")
+repositorio = Repositorio("meu-projeto", "Ana Souza - 6326207")
 
 
 repositorio.log()
